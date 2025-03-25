@@ -33,24 +33,6 @@ Notify Available Credential
     * - **Consumer**
       - Authentic Source
 
-Notify Update Credential
-...........................................
-
-.. list-table::
-    :widths: 20 80 
-    :stub-columns: 1
-
-    * - **Description**
-      - The service is designed to receive from Authentic Source (AS), via PDND,
-        notification of a change of status and/or value of a specific attribute (e.g. MDL)
-        with which a digital document issued by the Credential Issuer is
-        associated.
-    * - **Provider**
-      - PID/(Q)EAA Provider
-    * - **Consumer**
-      - Authentic Source
-
-
 Notify Wallet Instance Revocation
 ...........................................
 
